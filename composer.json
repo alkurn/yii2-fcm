@@ -1,0 +1,22 @@
+{
+    "name": "alkurn/yii2-fcm",
+    "description": "Yii2 Firebase Cloud Messaging adapter",
+    "type": "yii2-extension",
+    "require": {
+        "yiisoft/yii2": "^2",
+        "paragraph1/php-fcm": "*"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ganesh Alkurn",
+            "email": "mganesh.alkurn@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "alkurn\\fcm\\": "src"
+        }
+    }
+}
