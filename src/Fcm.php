@@ -12,7 +12,7 @@ use paragraph1\phpFCM\Recipient\Device;
 
 /**
  * Client class dispatches paragraph1\phpFCM entities
- * @author Anatoly Rugalev <anatoly.rugalev@gmail.com>
+ * @author Ganesh Mankar <gmankar@gmail.com>
  */
 class Fcm extends Component
 {
